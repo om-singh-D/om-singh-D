@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer with a strong interest in CP. I enjoy building innovative projects and exploring new technologies.<br>I have experience in developing full-stack applications in various technologies, including MERN, PERN, Next.js.<br>Feel free to explore my repositories to see more of my work.I'm always open to collaboration and new opportunities.<br>
+I'm a passionate developer with a strong interest in CP. I enjoy building innovative projects and exploring new technologies.<br>I have experience in developing full-stack applications in various technologies, including MERN, PERN, Next.js.<br>Feel free to explore my repositories to see more of my work. I'm always open to collaboration and new opportunities.<br>
 
 
 ## 🌐 Socials:
