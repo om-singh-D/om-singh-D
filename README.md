@@ -16,6 +16,6 @@ I'm a passionate developer with a strong interest in CP. I enjoy building innova
 ![](https://github-profile-trophy.vercel.app/?username=om-singh-D&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=om-singh-D&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=om-singh-D&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
