@@ -27,7 +27,7 @@
 
 ###
 
-
+###
 ## 👤 About Me
 
 - 🎓 **Computer Science student** with a strong foundation in **Data Structures & Algorithms (C++)**
@@ -37,7 +37,7 @@
 - 🚀 Currently exploring **System Design**, **RESTful APIs**, and **modern web architectures**
 - 🤝 Open to **internships** and **collaborative projects** to learn, contribute, and grow as a **Software Engineer**
 
-
+###
 
 ###
 
