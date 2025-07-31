@@ -5,15 +5,6 @@
 <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
 <h2 align= "center"><b>I look forward to absorb knowledge🧠,gain experience👨‍🏭, collaborate🤝 and build amazing products 🏭for the world🌍!</b></h2>
 
-## 👤 About Me
-
-- 🎓 **Computer Science student** with a strong foundation in **Data Structures & Algorithms (C++)**
-- 💡 Passionate about **problem-solving** and building **real-world applications**
-- 💻 Hands-on experience with **MERN** (MongoDB, Express.js, React, Node.js) and **PERN** (PostgreSQL, Express.js, React, Node.js) stacks
-- 🛠️ Skilled in **full-stack development** with **clean code**, **intuitive UI**, and **scalable backend logic**
-- 🚀 Currently exploring **System Design**, **RESTful APIs**, and **modern web architectures**
-- 🤝 Open to **internships** and **collaborative projects** to learn, contribute, and grow as a **Software Engineer**
-
 ###
 
 <div align="left">
@@ -35,6 +26,18 @@
 </div>
 
 ###
+
+
+## 👤 About Me
+
+- 🎓 **Computer Science student** with a strong foundation in **Data Structures & Algorithms (C++)**
+- 💡 Passionate about **problem-solving** and building **real-world applications**
+- 💻 Hands-on experience with **MERN** (MongoDB, Express.js, React, Node.js) and **PERN** (PostgreSQL, Express.js, React, Node.js) stacks
+- 🛠️ Skilled in **full-stack development** with **clean code**, **intuitive UI**, and **scalable backend logic**
+- 🚀 Currently exploring **System Design**, **RESTful APIs**, and **modern web architectures**
+- 🤝 Open to **internships** and **collaborative projects** to learn, contribute, and grow as a **Software Engineer**
+
+
 
 ###
 
