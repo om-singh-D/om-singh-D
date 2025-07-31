@@ -112,5 +112,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=om-singh-D&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=om-singh-D&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=om-singh-D&icon=0&color=0)](https://visitcount.itsvg.in)
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=om-singh-D.om-singh-D&"  />
+</div>
+
+###
