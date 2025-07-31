@@ -105,8 +105,6 @@
 ## 🧮 Profile Visits
 
 <div align="left">
-  <img src="https://visitcount.itsvg.in/api?id=om-singh-D&icon=4&color=12" alt="Profile Visit Counter"/>
-  <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=om-singh-D.om-singh-D" alt="Visitor Badge"/>
 </div>
 
