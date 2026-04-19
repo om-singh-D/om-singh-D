@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="49%"/>
-  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/>
+  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/> 
 </p>
 
 ---
