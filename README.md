@@ -35,13 +35,15 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="49%"/>
-  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/>
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="90%"/>
+  
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="90%"/>
+  <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="49%"/>
+  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/>
 </p>
+
 ---
 
 ## 👤 About Me
@@ -96,17 +98,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/om-singh-D/om-singh-D/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
-
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=om-singh-D&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</p>
 
 ---
 
