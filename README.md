@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.skyline.svg" alt="Skyline" width="90%"/>
-</p>
-
-<p align="center">
   <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="49%"/>
   <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/>
 </p>
