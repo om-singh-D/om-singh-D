@@ -60,10 +60,10 @@ jobs:
           filename: metrics.plugin.habits.svg
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_from: 1000
+          plugin_habits_days: 14
           plugin_habits_charts: yes
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           config_timezone: Asia/Kolkata
 
       # 5) Achievements/trophies card
@@ -76,7 +76,6 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_display: detailed
           config_timezone: Asia/Kolkata
 
       # 6) Topics card
@@ -88,6 +87,7 @@ jobs:
           filename: metrics.plugin.topics.svg
           base: ""
           plugin_topics: yes
-          plugin_topics_limit: 18
-          plugin_topics_mode: starred
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
+          plugin_topics_sort: stars
           config_timezone: Asia/Kolkata
