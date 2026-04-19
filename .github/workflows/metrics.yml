@@ -56,5 +56,5 @@ jobs:
           filename: metrics.plugin.repositories.svg
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: om-singh-D/om-singh-D
+          plugin_repositories_featured: om-singh-D/DataSonar, om-singh-D/MedMesh-AI
           config_timezone: Asia/Kolkata
