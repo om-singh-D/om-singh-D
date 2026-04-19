@@ -28,6 +28,29 @@
   </a>
 </div> -->
 
+## ⚡ GitHub Metrics
+
+<p align="center">
+  <img src="./metrics.classic.svg" alt="Metrics Overview" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.skyline.svg" alt="Skyline" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Isocalendar" width="49%"/>
+  <img src="./metrics.plugin.languages.svg" alt="Languages" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.habits.svg" alt="Habits" width="49%"/>
+  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="./metrics.plugin.topics.svg" alt="Topics" width="90%"/>
+</p>
 ---
 
 ## 👤 About Me
