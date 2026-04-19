@@ -40,12 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="./metrics.plugin.habits.svg" alt="Habits" width="49%"/>
-  <img src="./metrics.plugin.achievements.svg" alt="Achievements" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.topics.svg" alt="Topics" width="90%"/>
+  <img src="./metrics.plugin.repositories.svg" alt="Repositories" width="90%"/>
 </p>
 ---
 
