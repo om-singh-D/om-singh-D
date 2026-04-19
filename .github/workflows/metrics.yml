@@ -15,7 +15,7 @@ jobs:
     steps:
       # 1) Main overview card
       - name: Classic metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
@@ -24,22 +24,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-      # 2) 3D skyline card (eye-catcher)
-      - name: Skyline metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: om-singh-D
-          filename: metrics.plugin.skyline.svg
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2026
-          plugin_skyline_frames: 60
-          config_timezone: Asia/Kolkata
-
-      # 3) Contribution calendar card
+      # 2) Contribution calendar card
       - name: Isocalendar metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
@@ -49,9 +36,9 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
 
-      # 4) Languages card
+      # 3) Languages card
       - name: Languages metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
@@ -64,9 +51,9 @@ jobs:
           plugin_languages_ignored: html, css
           config_timezone: Asia/Kolkata
 
-      # 5) Habits card
+      # 4) Habits card
       - name: Habits metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
@@ -79,9 +66,9 @@ jobs:
           plugin_habits_facts: yes
           config_timezone: Asia/Kolkata
 
-      # 6) Achievements/trophies card
+      # 5) Achievements/trophies card
       - name: Achievements metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
@@ -92,9 +79,9 @@ jobs:
           plugin_achievements_display: detailed
           config_timezone: Asia/Kolkata
 
-      # 7) Topics card
+      # 6) Topics card
       - name: Topics metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
