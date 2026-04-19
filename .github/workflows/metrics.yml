@@ -13,7 +13,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1) Main overview card
       - name: Classic metrics
         uses: lowlighter/metrics@v3.34
         with:
@@ -24,7 +23,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
 
-      # 2) Contribution calendar card
       - name: Isocalendar metrics
         uses: lowlighter/metrics@v3.34
         with:
@@ -36,7 +34,6 @@ jobs:
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Kolkata
 
-      # 3) Languages card
       - name: Languages metrics
         uses: lowlighter/metrics@v3.34
         with:
@@ -51,43 +48,13 @@ jobs:
           plugin_languages_ignored: html, css
           config_timezone: Asia/Kolkata
 
-      # 4) Habits card
-      - name: Habits metrics
+      - name: Repositories metrics
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: om-singh-D
-          filename: metrics.plugin.habits.svg
+          filename: metrics.plugin.repositories.svg
           base: ""
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
-          config_timezone: Asia/Kolkata
-
-      # 5) Achievements/trophies card
-      - name: Achievements metrics
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: om-singh-D
-          filename: metrics.plugin.achievements.svg
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          config_timezone: Asia/Kolkata
-
-      # 6) Topics card
-      - name: Topics metrics
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: om-singh-D
-          filename: metrics.plugin.topics.svg
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          plugin_repositories: yes
+          plugin_repositories_featured: om-singh-D/om-singh-D
           config_timezone: Asia/Kolkata
